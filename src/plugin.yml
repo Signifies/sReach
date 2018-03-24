@@ -3,6 +3,7 @@ main: me.signifies.sReach.Reach
 version: 0.0.1
 description: Plugin for testing reach and hit detection complications for b0squet
 website: www.github.com/Signifies/sReach
+author: Signifies
 # depend: [eKernel] #Will implement this when permission checks are required.
 commands:
   testplayer:
