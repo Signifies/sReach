@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sReach:jar">
+    <output-path>$PROJECT_DIR$/../../Builds</output-path>
+    <root id="archive" name="sReach.jar">
+      <element id="module-output" name="sReach" />
+    </root>
+  </artifact>
+</component>
