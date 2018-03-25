@@ -9,4 +9,7 @@ commands:
   testplayer:
     description: Command to test players...
     aliases: [tplayer,dreach]
+  ping:
+    description: Command to display user's ping
+    aliases: [png]
 
